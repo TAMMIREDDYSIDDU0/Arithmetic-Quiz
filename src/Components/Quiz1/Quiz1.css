@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+.btn-outline-success,.btn-outline-warning{
+    margin-top: 15px;
+    width: 25%;
+}
+.container{
+    padding: 20px;
+    background:url(../../Assests/bg.jpg);
+    border: 2px solid white;
+    min-height:100vh;
+}
+.btn1{
+    font-family: 'Alumni Sans Inline One', cursive;
+    background-color:azure;
+    padding:0px 5px;
+    font-size: 50px;
+    margin-top: 25%;
+    outline: none;
+    border: none;
+}
+.btn1:hover{
+    background-color: crimson;
+    color: cornsilk;
+}
+.quiz1{
+    min-height:100vh;
+    padding: 15px;
+
+}
+.quiz1 h2{
+    font-family: 'Titan One', cursive;
+    color: white;
+    font-weight:900;
+}
+.quiz1 h6{
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 35px;
+    text-align: left;
+
+}
+.quiz1 h5{
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 55px;
+
+}
+.al{
+    background-color: white;
+    /* opacity: 0.6; */
+    text-align: left;
+    padding:40px;
+}
+.Question{
+    opacity: 1;
+    font-size: bold;
+    display:block;
+}
+.Que{
+    padding-top: 10px;
+    font-family: 'Titan One', cursive;
+    font-size: 30px;
+}
+.Q{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.score{
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 35px;
+}
